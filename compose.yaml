@@ -1,0 +1,17 @@
+services:
+  groceries:
+    build:
+      context: .
+    image: market-list:local
+    ports:
+      - "127.0.0.1:${MARKET_LIST_PORT:-8081}:8080"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+      ConnectionStrings__Default: Data Source=/app/data/groceries.db
+      DataProtection__Path: /app/data/keys
+    volumes:
+      - grocery-data:/app/data
+    restart: unless-stopped
+
+volumes:
+  grocery-data:

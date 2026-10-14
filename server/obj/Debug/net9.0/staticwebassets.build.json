@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "cKK7ytybtMYVPAkkl4cF70oyFxdR4vfnf924troVF30=",
+  "Source": "Groceries.Api",
+  "BasePath": "_content/Groceries.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Groceries.Api/wwwroot",
+      "Source": "Groceries.Api",
+      "ContentRoot": "/Users/andrewbyerly/groceries/server/wwwroot/",
+      "BasePath": "_content/Groceries.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/5w5n4f5x2t-ndmulcjj9h.gz",
+      "SourceId": "Groceries.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Groceries.Api",
+      "RelativePath": "assets/index-B8ph37bB#[.{fingerprint=ndmulcjj9h}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/andrewbyerly/groceries/server/wwwroot/assets/index-B8ph37bB.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ijva7ojvaw",
+      "Integrity": "0orTCfHKcRrhePhymuu/fPtN44bQh6vkvsmELdhb6Qo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/andrewbyerly/groceries/server/wwwroot/assets/index-B8ph37bB.js"
+    },
+    {
+      "Identity": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/n32fzcfhg0-ck92pxsban.gz",
+      "SourceId": "Groceries.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Groceries.Api",
+      "RelativePath": "assets/index-Bt_nTHgH#[.{fingerprint=ck92pxsban}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/andrewbyerly/groceries/server/wwwroot/assets/index-Bt_nTHgH.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "cxb4rqikdz",
+      "Integrity": "oCfPl+5ztE+kRJLlW/ThlJupo+rKszD97xJqbuZUVsA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/andrewbyerly/groceries/server/wwwroot/assets/index-Bt_nTHgH.css"
+    },
+    {
+      "Identity": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/upujno7wnh-e9lsyo01i1.gz",
+      "SourceId": "Groceries.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Groceries.Api",
+      "RelativePath": "index#[.{fingerprint=e9lsyo01i1}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/andrewbyerly/groceries/server/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ic34bkhv8a",
+      "Integrity": "8nTr7K5OudsPtAF+UAevkqEVQ6EaUQpf1OU45xoGgpg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/andrewbyerly/groceries/server/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/andrewbyerly/groceries/server/wwwroot/assets/index-B8ph37bB.js",
+      "SourceId": "Groceries.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/andrewbyerly/groceries/server/wwwroot/",
+      "BasePath": "_content/Groceries.Api",
+      "RelativePath": "assets/index-B8ph37bB#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ndmulcjj9h",
+      "Integrity": "NV4mttd6rrXC6dLUXlw/Ew3X+4FoUF+s8pti4rksEmk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/index-B8ph37bB.js"
+    },
+    {
+      "Identity": "/Users/andrewbyerly/groceries/server/wwwroot/assets/index-Bt_nTHgH.css",
+      "SourceId": "Groceries.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/andrewbyerly/groceries/server/wwwroot/",
+      "BasePath": "_content/Groceries.Api",
+      "RelativePath": "assets/index-Bt_nTHgH#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ck92pxsban",
+      "Integrity": "FAaG6RMun6blgCRscAzkGwKX9dXWK1ilFL1GjmAU9Cs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/index-Bt_nTHgH.css"
+    },
+    {
+      "Identity": "/Users/andrewbyerly/groceries/server/wwwroot/index.html",
+      "SourceId": "Groceries.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/andrewbyerly/groceries/server/wwwroot/",
+      "BasePath": "_content/Groceries.Api",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e9lsyo01i1",
+      "Integrity": "XqPQZ79RK7+Dg/c1y/EYG8ye2YYGYYgh5LPEGG6yIFg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/index-B8ph37bB.js",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/5w5n4f5x2t-ndmulcjj9h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013756483"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72692"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0orTCfHKcRrhePhymuu/fPtN44bQh6vkvsmELdhb6Qo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NV4mttd6rrXC6dLUXlw/Ew3X+4FoUF+s8pti4rksEmk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NV4mttd6rrXC6dLUXlw/Ew3X+4FoUF+s8pti4rksEmk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-B8ph37bB.js",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/wwwroot/assets/index-B8ph37bB.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234215"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NV4mttd6rrXC6dLUXlw/Ew3X+4FoUF+s8pti4rksEmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NV4mttd6rrXC6dLUXlw/Ew3X+4FoUF+s8pti4rksEmk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-B8ph37bB.js.gz",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/5w5n4f5x2t-ndmulcjj9h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72692"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0orTCfHKcRrhePhymuu/fPtN44bQh6vkvsmELdhb6Qo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0orTCfHKcRrhePhymuu/fPtN44bQh6vkvsmELdhb6Qo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-B8ph37bB.ndmulcjj9h.js",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/5w5n4f5x2t-ndmulcjj9h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013756483"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72692"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0orTCfHKcRrhePhymuu/fPtN44bQh6vkvsmELdhb6Qo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NV4mttd6rrXC6dLUXlw/Ew3X+4FoUF+s8pti4rksEmk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ndmulcjj9h"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-B8ph37bB.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NV4mttd6rrXC6dLUXlw/Ew3X+4FoUF+s8pti4rksEmk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-B8ph37bB.ndmulcjj9h.js",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/wwwroot/assets/index-B8ph37bB.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234215"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NV4mttd6rrXC6dLUXlw/Ew3X+4FoUF+s8pti4rksEmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ndmulcjj9h"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-B8ph37bB.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NV4mttd6rrXC6dLUXlw/Ew3X+4FoUF+s8pti4rksEmk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-B8ph37bB.ndmulcjj9h.js.gz",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/5w5n4f5x2t-ndmulcjj9h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72692"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0orTCfHKcRrhePhymuu/fPtN44bQh6vkvsmELdhb6Qo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ndmulcjj9h"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-B8ph37bB.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0orTCfHKcRrhePhymuu/fPtN44bQh6vkvsmELdhb6Qo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Bt_nTHgH.ck92pxsban.css",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/n32fzcfhg0-ck92pxsban.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000269832704"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3705"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oCfPl+5ztE+kRJLlW/ThlJupo+rKszD97xJqbuZUVsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FAaG6RMun6blgCRscAzkGwKX9dXWK1ilFL1GjmAU9Cs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ck92pxsban"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-Bt_nTHgH.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FAaG6RMun6blgCRscAzkGwKX9dXWK1ilFL1GjmAU9Cs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Bt_nTHgH.ck92pxsban.css",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/wwwroot/assets/index-Bt_nTHgH.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12898"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FAaG6RMun6blgCRscAzkGwKX9dXWK1ilFL1GjmAU9Cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ck92pxsban"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-Bt_nTHgH.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FAaG6RMun6blgCRscAzkGwKX9dXWK1ilFL1GjmAU9Cs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Bt_nTHgH.ck92pxsban.css.gz",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/n32fzcfhg0-ck92pxsban.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oCfPl+5ztE+kRJLlW/ThlJupo+rKszD97xJqbuZUVsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ck92pxsban"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-Bt_nTHgH.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oCfPl+5ztE+kRJLlW/ThlJupo+rKszD97xJqbuZUVsA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Bt_nTHgH.css",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/n32fzcfhg0-ck92pxsban.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000269832704"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3705"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oCfPl+5ztE+kRJLlW/ThlJupo+rKszD97xJqbuZUVsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FAaG6RMun6blgCRscAzkGwKX9dXWK1ilFL1GjmAU9Cs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FAaG6RMun6blgCRscAzkGwKX9dXWK1ilFL1GjmAU9Cs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Bt_nTHgH.css",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/wwwroot/assets/index-Bt_nTHgH.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12898"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FAaG6RMun6blgCRscAzkGwKX9dXWK1ilFL1GjmAU9Cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FAaG6RMun6blgCRscAzkGwKX9dXWK1ilFL1GjmAU9Cs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Bt_nTHgH.css.gz",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/n32fzcfhg0-ck92pxsban.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oCfPl+5ztE+kRJLlW/ThlJupo+rKszD97xJqbuZUVsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oCfPl+5ztE+kRJLlW/ThlJupo+rKszD97xJqbuZUVsA="
+        }
+      ]
+    },
+    {
+      "Route": "index.e9lsyo01i1.html",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/upujno7wnh-e9lsyo01i1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003215434084"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "310"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8nTr7K5OudsPtAF+UAevkqEVQ6EaUQpf1OU45xoGgpg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XqPQZ79RK7+Dg/c1y/EYG8ye2YYGYYgh5LPEGG6yIFg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e9lsyo01i1"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XqPQZ79RK7+Dg/c1y/EYG8ye2YYGYYgh5LPEGG6yIFg="
+        }
+      ]
+    },
+    {
+      "Route": "index.e9lsyo01i1.html",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XqPQZ79RK7+Dg/c1y/EYG8ye2YYGYYgh5LPEGG6yIFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e9lsyo01i1"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XqPQZ79RK7+Dg/c1y/EYG8ye2YYGYYgh5LPEGG6yIFg="
+        }
+      ]
+    },
+    {
+      "Route": "index.e9lsyo01i1.html.gz",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/upujno7wnh-e9lsyo01i1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8nTr7K5OudsPtAF+UAevkqEVQ6EaUQpf1OU45xoGgpg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e9lsyo01i1"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8nTr7K5OudsPtAF+UAevkqEVQ6EaUQpf1OU45xoGgpg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/upujno7wnh-e9lsyo01i1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003215434084"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "310"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8nTr7K5OudsPtAF+UAevkqEVQ6EaUQpf1OU45xoGgpg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XqPQZ79RK7+Dg/c1y/EYG8ye2YYGYYgh5LPEGG6yIFg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XqPQZ79RK7+Dg/c1y/EYG8ye2YYGYYgh5LPEGG6yIFg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XqPQZ79RK7+Dg/c1y/EYG8ye2YYGYYgh5LPEGG6yIFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XqPQZ79RK7+Dg/c1y/EYG8ye2YYGYYgh5LPEGG6yIFg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/andrewbyerly/groceries/server/obj/Debug/net9.0/compressed/upujno7wnh-e9lsyo01i1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "310"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8nTr7K5OudsPtAF+UAevkqEVQ6EaUQpf1OU45xoGgpg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 Oct 2026 02:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8nTr7K5OudsPtAF+UAevkqEVQ6EaUQpf1OU45xoGgpg="
+        }
+      ]
+    }
+  ]
+}

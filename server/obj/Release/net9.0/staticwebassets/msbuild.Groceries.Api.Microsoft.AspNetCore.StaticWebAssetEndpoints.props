@@ -1,0 +1,40 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Groceries.Api/assets/index-CxMncnb_.5l2zl0xnt7.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\index-CxMncnb_.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5l2zl0xnt7"},{"Name":"integrity","Value":"sha256-2fwkAWXIL6xH2x1aGlXoXkPVQSfAOm7yLnJ5Dtquu8E="},{"Name":"label","Value":"_content/Groceries.Api/assets/index-CxMncnb_.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14383"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222fwkAWXIL6xH2x1aGlXoXkPVQSfAOm7yLnJ5Dtquu8E=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Oct 2026 02:35:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Groceries.Api/assets/index-CxMncnb_.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\index-CxMncnb_.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2fwkAWXIL6xH2x1aGlXoXkPVQSfAOm7yLnJ5Dtquu8E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14383"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222fwkAWXIL6xH2x1aGlXoXkPVQSfAOm7yLnJ5Dtquu8E=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Oct 2026 02:35:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Groceries.Api/assets/index-DYjpoxil.3ryvzr0gf4.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\index-DYjpoxil.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3ryvzr0gf4"},{"Name":"integrity","Value":"sha256-Ue/FNNYNi8TQz4RvsjQ7qz1xMwKQz2aHFcVPUgh9eFQ="},{"Name":"label","Value":"_content/Groceries.Api/assets/index-DYjpoxil.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"236987"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Ue/FNNYNi8TQz4RvsjQ7qz1xMwKQz2aHFcVPUgh9eFQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Oct 2026 02:35:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Groceries.Api/assets/index-DYjpoxil.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\index-DYjpoxil.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Ue/FNNYNi8TQz4RvsjQ7qz1xMwKQz2aHFcVPUgh9eFQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"236987"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Ue/FNNYNi8TQz4RvsjQ7qz1xMwKQz2aHFcVPUgh9eFQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Oct 2026 02:35:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Groceries.Api/index.b3iaf17pum.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b3iaf17pum"},{"Name":"integrity","Value":"sha256-6cKJFmDBdXKTBIFMnZ\u002BrmiM/ChgKrtiCWgNIzcISw24="},{"Name":"label","Value":"_content/Groceries.Api/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"517"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00226cKJFmDBdXKTBIFMnZ\u002BrmiM/ChgKrtiCWgNIzcISw24=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Oct 2026 02:35:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Groceries.Api/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6cKJFmDBdXKTBIFMnZ\u002BrmiM/ChgKrtiCWgNIzcISw24="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"517"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00226cKJFmDBdXKTBIFMnZ\u002BrmiM/ChgKrtiCWgNIzcISw24=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Oct 2026 02:35:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
