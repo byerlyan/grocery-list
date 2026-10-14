@@ -1,4 +1,4 @@
-# Market List
+# Grocery List
 
 A shared grocery list built with React, TypeScript, ASP.NET Core, Identity, Entity Framework Core, and SQLite.
 
